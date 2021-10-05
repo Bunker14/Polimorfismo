@@ -3,5 +3,5 @@
 - **Sum** Areas  
 - **Sort** Figures  
 #### Figure Manager
-	Circulo, Rectangulo, Cuadrado, Triangulo
+Circulo, Rectangulo, Cuadrado, Triangulo
 
